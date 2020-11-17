@@ -1,0 +1,33 @@
+.start-data {
+  margin: 50px auto;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
+  .start-data h3 {
+    padding: 0;
+    margin: 0 0 15px; }
+  .start-data table {
+    border-collapse: collapse; }
+    .start-data table td,
+    .start-data table th {
+      border: 1px solid black;
+      text-align: center;
+      padding: 5px 10px; }
+
+.output-data {
+  margin: 50px auto;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
+  .output-data h3 {
+    padding: 0;
+    margin: 0 0 15px; }
+  .output-data table {
+    border-collapse: collapse; }
+    .output-data table td,
+    .output-data table th {
+      border: 1px solid black;
+      text-align: center;
+      padding: 5px 10px; }

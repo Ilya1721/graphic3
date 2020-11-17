@@ -1,0 +1,23 @@
+.start-data {
+  margin: 50px auto;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  h3 {
+    padding: 0;
+    margin: 0 0 15px;
+  }
+
+  table {
+    border-collapse: collapse;
+
+    td,
+    th {
+      border: 1px solid black;
+      text-align: center;
+      padding: 5px 10px;
+    }
+  }
+}
